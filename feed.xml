@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0"
+  xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd"
+  xmlns:content="http://purl.org/rss/1.0/modules/content/"
+  xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>My Awesome Podcast</title>
+    <link></link>
+    <description><![CDATA[Test podcasts created using an AI-generated podcast recording and publishing app.]]></description>
+    <language>en</language>
+    <itunes:author>Fantastix</itunes:author>
+    <itunes:owner>
+      <itunes:name>Fantastix</itunes:name>
+      <itunes:email></itunes:email>
+    </itunes:owner>
+    <itunes:category text="Technology" />
+    <itunes:explicit>false</itunes:explicit>
+    
+    <atom:link href="https://placeholder/feed.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>second_test_recording</title>
+      <description><![CDATA[]]></description>
+      <pubDate>Fri, 10 Apr 2026 16:56:09 GMT</pubDate>
+      <guid isPermaLink="false">73cd5d26-65f7-4cb5-adc0-4849e3609567</guid>
+      <enclosure url="https://placeholder/episodes/73cd5d26-65f7-4cb5-adc0-4849e3609567.mp3" length="43759" type="audio/mpeg" />
+      <itunes:duration>2</itunes:duration>
+      
+      
+      
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+  </channel>
+</rss>
