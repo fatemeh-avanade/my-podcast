@@ -16,13 +16,13 @@
     <itunes:category text="Technology" />
     <itunes:explicit>false</itunes:explicit>
     
-    <atom:link href="https://fatemeh-avanade.github.io/my-podcast/feed.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://placeholder/feed.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>second_test_recording</title>
       <description><![CDATA[]]></description>
       <pubDate>Fri, 10 Apr 2026 16:56:09 GMT</pubDate>
       <guid isPermaLink="false">73cd5d26-65f7-4cb5-adc0-4849e3609567</guid>
-      <enclosure url="https://fatemeh-avanade.github.io/my-podcast/episodes/73cd5d26-65f7-4cb5-adc0-4849e3609567.mp3" length="43759" type="audio/mpeg" />
+      <enclosure url="https://placeholder/episodes/73cd5d26-65f7-4cb5-adc0-4849e3609567.mp3" length="43759" type="audio/mpeg" />
       <itunes:duration>2</itunes:duration>
       
       
